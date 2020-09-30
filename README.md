@@ -1,2 +1,0 @@
-# PracticePHP
-Pushing examples 
